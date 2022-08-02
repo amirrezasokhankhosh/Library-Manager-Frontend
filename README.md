@@ -6,7 +6,7 @@ Front-end part of an app--written with plain JS, HTML, CSS and a little PHP-resp
 
 ## Introduction
 
-This repository is the second part of the **Library Manager** application, so I recommend installing the preceding part of this repository at first.
+This repository is the second part of the **Library Manager** application, so I recommend installing the preceding part of this repository ([Library-Manager-Backend](https://github.com/amirrezasokhankhosh/Library-Manager-Backend)) at first.
 
 This application should have 2 user types. **Admin-user** which is responsible for the management of books, memberships, and borrowing books. **Guest-user** which gives non-staff individuals the ability to search through the database for books. This search can be based on author, book’s name, and its publication.
 
