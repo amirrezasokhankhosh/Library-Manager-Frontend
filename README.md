@@ -32,12 +32,12 @@ Initially, I have defined a temporary username. You can login with `**username :
 
 If you login as a guest, you will only be able to search in the database.
 
-![Untitled](README/Untitled%201.png)
+![Untitled](README/Untitled%1.png)
 
 But when you sign in with the mentioned username and password you also see some buttons about other management functions of the library. However, these functionalities are not implemented yet. 
 
-![Untitled](README/Untitled%202.png)
+![Untitled](README/Untitled%2.png)
 
 A search result:
 
-![Untitled](README/Untitled%203.png)
+![Untitled](README/Untitled%3.png)
